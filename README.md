@@ -1,16 +1,19 @@
-### Hi there 👋
+## Oh, hi! Ruan desu!~~~👋
 
-<!--
-**RuanUrb/RuanUrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuanUrb&theme=dark&show_icons=true)
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Javascript, React, PHP and SQL.
+🔭 I’m currently working on Python and C++ projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Language enthusiast:
+
+-🇧🇷
+-🇬🇧
+-🇩🇪
+-🇯🇵
+
+### Find me on:
+
+<a href="https://www.linkedin.com/in/ruan-urbanjos-26b0ba252/" target="blank"><img align="left" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg" width="22px"/></a>
+
+<a href="https://lichess.org/@/aSacrificer" target="blank"><img align="left" src="https://myket.ir/app-icon/48d3940b-dcdd-4f89-b6cf-583fbaa0c8f1.png"/></a>
