@@ -4,16 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanUrb&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-🌱 I’m currently learning Javascript, React, PHP and SQL.
-
-🔭 I’m currently working on Python and C++ projects.
-
-### Language enthusiast:
-
-- 🇧🇷
-- 🇬🇧
-- 🇩🇪
-- 🇯🇵
 
 ### Find me on:
 
