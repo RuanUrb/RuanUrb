@@ -45,7 +45,7 @@ From the intricacies of computer programming to grammatical depths of a new lang
 Currently on my way to master both Japanese 🇯🇵 and German 🇩🇪 skills so I can watch anime with no subtitles and read great literature in original format.
 
 #### 💪 Fitness Average Enjoyer
-Besides hitting the gym tryna get those guns big, I also happen to be a martial arts enthusiast and secretly dream of competing in amateur leagues. Used to fight BJJ but now I'm into Boxing. 🥊
+Besides hitting the gym tryna get those guns big, I am also a martial arts enthusiast who secretly dreams of competing in amateur leagues. Used to fight BJJ but now I'm into Boxing. 🥊
 
 #### ♟️ Chess
 My most lasting obsession so far. I play chess since my 10's but started trying to REALLY learn the game in 2020. I'm kinda average player, though I could attain 2000's elo peak last days.
